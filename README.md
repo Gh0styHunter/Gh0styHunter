@@ -4,59 +4,60 @@
 
 ### 🔐 Cybersecurity | Pentest | Python | Linux | Networking
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Pentest+%7C+SOC+%7C+Python;Building+GH0sty;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Pentest+%7C+SOC+%7C+Python;Building+GH0sty;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou apaixonado por **Cibersegurança** e desenvolvimento de ferramentas para automação de segurança.
+Sou apaixonado por **Cibersegurança**, desenvolvimento de software e automação.
 
-Atualmente foco meus estudos em:
+Tenho direcionado meus estudos e projetos para áreas como Segurança Ofensiva, Segurança Defensiva, Redes e Desenvolvimento de Ferramentas utilizando Python.
 
-- 🛡️ Pentest
-- 🔵 SOC
-- 🌐 Segurança Web
-- 🐍 Python
-- 🐧 Linux
-- 🌎 Redes
-- 🔍 Análise de Vulnerabilidades
-- ⚙️ Automação
-
-Além dos estudos, desenvolvo projetos próprios para aplicar conhecimentos em ambientes práticos.
+Meu objetivo é transformar conhecimento em soluções práticas, contribuindo para a comunidade e evoluindo continuamente como profissional da área.
 
 ---
 
-# 💻 Projeto Principal
+# 🎯 Áreas de Interesse
 
-## 👻 GH0sty
+- 🔴 Pentest
+- 🔵 Security Operations Center (SOC)
+- 🌐 Web Security
+- 🔍 Vulnerability Assessment
+- 🛡️ Offensive Security
+- 🖥️ Linux
+- 🌎 Networking
+- 🐍 Python
+- ⚙️ Automação
 
-Ferramenta desenvolvida em Python voltada para automação de reconhecimento e atividades utilizadas em testes de intrusão.
+---
 
-Objetivos do projeto:
+# 👻 Projeto em Destaque
 
-- Reconhecimento
-- Enumeração
+## GH0sty
+
+Ferramenta modular desenvolvida em Python para auxiliar atividades de reconhecimento e automação utilizadas em testes de intrusão.
+
+### Funcionalidades atuais
+
 - Port Scanning
 - Service Detection
-- Web Enumeration
 - DNS Enumeration
+- Web Enumeration
 - Subdomain Discovery
 - OSINT
 - Automação
 
-🚧 Em constante desenvolvimento.
+> 🚧 Projeto em constante evolução.
 
 ---
 
 # 🛠️ Tecnologias
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,sqlite,mysql" />
-
 </p>
 
 ---
@@ -65,66 +66,54 @@ Objetivos do projeto:
 
 - Offensive Security
 - Active Directory
-- Web Pentest
+- Web Pentesting
 - Linux Privilege Escalation
 - Windows Privilege Escalation
-- Python para Segurança
-- Redes
-- SOC
+- Python para Cybersecurity
 - SIEM
+- Threat Hunting
+- SOC Operations
 
 ---
 
-# 🎯 Objetivo
+# 📂 Projetos
 
-Construir soluções próprias, evoluir continuamente como profissional de Cibersegurança e contribuir para projetos que envolvam segurança ofensiva e defensiva.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
+| Projeto | Descrição |
+|---------|-----------|
+| 👻 GH0sty | Framework para automação de Pentest e Reconhecimento |
+| 🐍 Python Labs | Scripts voltados para estudos e automação |
+| 🌐 Web Security Labs | Estudos práticos sobre segurança web |
+| 🔐 Cybersecurity Labs | Laboratórios, desafios e experimentos |
 
 ---
 
-# 🔥 GitHub Streak
+# 🎯 Objetivos
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribuições
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-
-</p>
+- Construir ferramentas úteis para a comunidade.
+- Compartilhar conhecimento.
+- Evoluir continuamente em Cibersegurança.
+- Atuar profissionalmente como Analista de Cibersegurança.
 
 ---
 
 # 🌐 Contato
 
-- 💼 LinkedIn
-- 🌍 Portfólio
-- 📧 Email
+<p align="left">
+
+💼 LinkedIn: **https://www.linkedin.com/in/jackson-bertoldo/**
+
+🌎 Portfólio: **Andamento**
+
+📧 Email: **jacksonfelixbertolb@gmail.com**
+
+</p>
 
 ---
 
 <div align="center">
 
-### 🔐 "Cybersecurity is a journey of continuous learning."
+### 💡 *"Learning never exhausts the mind."*
 
-⭐ Obrigado por visitar meu perfil.
+Obrigado pela visita! ⭐
 
 </div>
