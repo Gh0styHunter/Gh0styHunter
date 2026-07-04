@@ -80,10 +80,10 @@ Ferramenta modular desenvolvida em Python para auxiliar atividades de reconhecim
 
 | Projeto | Descrição |
 |---------|-----------|
-| 👻 GH0sty | Framework para automação de Pentest e Reconhecimento |
-| 🐍 Python Labs | Scripts voltados para estudos e automação |
-| 🌐 Web Security Labs | Estudos práticos sobre segurança web |
-| 🔐 Cybersecurity Labs | Laboratórios, desafios e experimentos |
+| 👻 GH0sty | 🚧 Em desenvolvimento | Framework para automação de Pentest e Reconhecimento |
+| 🐍 Python Labs | 🚧 Em desenvolvimento | Scripts voltados para estudos e automação |
+| 🌐 Web Security Labs | 🚧 Em desenvolvimento | Estudos práticos sobre segurança web |
+| 🔐 Cybersecurity Labs | 🚧 Em desenvolvimento | Laboratórios, desafios e experimentos |
 
 ---
 
