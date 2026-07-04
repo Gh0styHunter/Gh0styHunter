@@ -90,12 +90,29 @@ Ferramenta modular desenvolvida em Python para auxiliar atividades de reconhecim
 
 ---
 
-# 🧪 Laboratórios e Estudos
+## 🧪 Cybersecurity Labs (Trilhas de Estudo)
 
-| Área | Status | Descrição |
-|------|--------|----------|
-| 🌐 Web Security Labs | 🚧 Em desenvolvimento | Estudos práticos sobre segurança web |
-| 🔐 Cybersecurity Labs | 🚧 Em desenvolvimento | Laboratórios, desafios e experimentos em cibersegurança |
+Um ambiente estruturado de aprendizado prático em segurança da informação.
+
+### 🌐 Web Security
+- XSS, SQL Injection, CSRF, IDOR
+- OWASP Top 10
+- Testes em aplicações vulneráveis
+
+### 🔐 Pentest / Red Team
+- Reconhecimento e enumeração
+- Exploração de vulnerabilidades
+- Uso de ferramentas como Nmap, Burp Suite e similares
+
+### 🛡️ SOC / Blue Team
+- Análise de logs
+- Monitoramento de eventos
+- SIEM e detecção de ameaças
+
+### 🧠 CTFs & Writeups
+- Resolução de desafios
+- Documentação de soluções
+- Treino ofensivo e defensivo
 
 ---
 
