@@ -17,7 +17,7 @@
 
 # 🚀 Sobre mim
 
-Sou apaixonado por **Cibersegurança**, desenvolvimento de software e automação.
+Gosto muito de **Cibersegurança**, desenvolvimento de software e automação.
 
 Tenho direcionado meus estudos e projetos para áreas como Segurança Ofensiva, Segurança Defensiva, Redes e Desenvolvimento de Ferramentas utilizando Python.
 
