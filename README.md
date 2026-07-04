@@ -6,16 +6,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Pentest+%7C+SOC+%7C+Python;Building+GH0sty;Always+Learning+Something+New" />
 
-</div>
-
----
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Focus](https://img.shields.io/badge/focus-cybersecurity-red)
 ![Python](https://img.shields.io/badge/python-advanced-blue)
 ![Pentest](https://img.shields.io/badge/pentest-learning-critical)
 ![SOC](https://img.shields.io/badge/SOC-studies-blueviolet)
+</div>
 
 ---
+
 # 🚀 Sobre mim
 
 Sou apaixonado por **Cibersegurança**, desenvolvimento de software e automação.
