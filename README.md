@@ -81,7 +81,7 @@ Ferramenta modular desenvolvida em Python para auxiliar atividades de reconhecim
 | Projeto | Status | Descrição |
 |---------|:------:|-----------|
 | 👻 gh0sty | 🚧 Em desenvolvimento | Framework para automação de Pentest e Reconhecimento |
-| 🐍 Python Labs | 🚧 Em desenvolvimento | Scripts voltados para estudos e automação |
+| 🐍 Scripts Python | 🚧 Em desenvolvimento | Scripts voltados para estudos e automação |
 | 🌐 Web Security Labs | 🚧 Em desenvolvimento | Estudos práticos sobre segurança web |
 | 🔐 Cybersecurity Labs | 🚧 Em desenvolvimento | Laboratórios, desafios e experimentos |
 
