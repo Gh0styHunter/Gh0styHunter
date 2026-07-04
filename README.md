@@ -9,7 +9,13 @@
 </div>
 
 ---
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Focus](https://img.shields.io/badge/focus-cybersecurity-red)
+![Python](https://img.shields.io/badge/python-advanced-blue)
+![Pentest](https://img.shields.io/badge/pentest-learning-critical)
+![SOC](https://img.shields.io/badge/SOC-studies-blueviolet)
 
+---
 # 🚀 Sobre mim
 
 Sou apaixonado por **Cibersegurança**, desenvolvimento de software e automação.
