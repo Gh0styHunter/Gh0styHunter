@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Jackson Bertoldo
 
-### 🔐 Cybersecurity | Pentest | Python | Linux | Networking
+### 🔐 Cybersecurity • Pentest • SOC • Python • Linux • Networking
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Pentest+%7C+SOC+%7C+Python;Building+GH0sty;Always+Learning+Something+New" />
 
